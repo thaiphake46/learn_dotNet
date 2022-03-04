@@ -10,7 +10,7 @@ namespace BaiTap2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bai1:");
+            /*Console.WriteLine("Bai1:");
             float a, b, c;
             Console.Write("- Nhap a: ");
             a = Convert.ToSingle(Console.ReadLine());
@@ -55,7 +55,7 @@ namespace BaiTap2
             Console.WriteLine("*\t+ MSSV:      " + mssv);
             Console.WriteLine("***************************************");
             Console.ForegroundColor = ConsoleColor.White;
-            Console.BackgroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.Black;*/
         }
     }
 }
