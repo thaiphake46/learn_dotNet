@@ -1,0 +1,8 @@
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\bin\Debug\BaiTap6_2.exe.config
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\bin\Debug\BaiTap6_2.exe
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\bin\Debug\BaiTap6_2.pdb
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\obj\Debug\BaiTap6_2.csproj.AssemblyReference.cache
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\obj\Debug\BaiTap6_2.csproj.SuggestedBindingRedirects.cache
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\obj\Debug\BaiTap6_2.csproj.CoreCompileInputs.cache
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\obj\Debug\BaiTap6_2.exe
+E:\N2_K2\dotNet\BaiTap\BaiTap6_2\BaiTap6_2\obj\Debug\BaiTap6_2.pdb
